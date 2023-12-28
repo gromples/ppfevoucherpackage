@@ -30,6 +30,7 @@ func init() {
 			}
 		}
 	}
+	fmt.Println("Voucher package v1.0.0")
 }
 
 func encryptPin(pinNumber uint64) uint64 {
